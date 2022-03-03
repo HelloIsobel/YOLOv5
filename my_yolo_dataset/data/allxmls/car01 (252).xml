@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mini</folder>
+	<filename>2020-11-29 15.40.45.72.png</filename>
+	<path>D:\Desktop\GitHub\ObstacleDetection_Result\data\mini\2020-11-29 15.40.45.72.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>210</ymin>
+			<xmax>640</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

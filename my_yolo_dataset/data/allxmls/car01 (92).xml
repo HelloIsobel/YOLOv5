@@ -1,0 +1,38 @@
+<annotation>
+	<folder>mini</folder>
+	<filename>2020-11-29 15.17.53.950.png</filename>
+	<path>D:\Desktop\GitHub\ObstacleDetection_Result\data\mini\2020-11-29 15.17.53.950.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AGmachine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>325</xmin>
+			<ymin>157</ymin>
+			<xmax>517</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>166</ymin>
+			<xmax>428</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

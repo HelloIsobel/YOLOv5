@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ningbo_car02</folder>
+	<filename>car02 (24).jpg</filename>
+	<path>D:\Desktop\GitHub\ObstacleDetection_Result\data\train\image\ningbo_car02\car02 (24).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AGmachine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>393</ymin>
+			<xmax>129</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>
